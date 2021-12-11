@@ -29,29 +29,21 @@ The winner of the election, based on the results of the popular vote:
 
 Diana Degette -(272,892 votes) 73.8% of the popular vote
 
-## Report Summary
-
-  ![image](https://user-images.githubusercontent.com/94253815/145691675-c9479bb7-9a7c-4458-a750-279ba915703c.png)
-
-
-
-The analysis of the election show that:
- - There were "x" votes cast in the election
- - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
-- The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
-- The winner of the election was:
-    - Candidate (1,2,3), who received "x%" of the vote and "y" number of votes.
-
-Here is the summary rport:
-
-
-
-
 ## Challenge Overview
+
+This data was confirmed on the 1st round of the data analysis.  The results were confirmed on the 2nd analysis.  The election officials wished to conduct a 2nd round of analysis to gathere more data.  On top of confirming the results, the election commission wanted the following for the final audit:
+
+1. To calculate the voter turnout for each county.
+2. Calculate the percentage of votes each county contributed to the election.
+3. Determine which county had the largest turnout
+
 ## Challenge Summary
+
+Voter Turnout for each county:
+
+  
+
+
+
+
+
