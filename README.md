@@ -1,30 +1,31 @@
 # Election_Analysis
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. The following is the analysis of the audit
-The total number of votes cast:
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. The following is a list of additional data needed, in order to complete the audit:
 
-ELECTION RESULTS:
-Total Votes: 369,711
+1. Calculate the total number of votes cast. 
+2. Get a complete list of candidates who received votes. 
+3. Calculate the total number of votes each candidate received. 
+4. Calculate the percentage of votes each candidate won. 
+5. Determine the winner of the election based on popular vote.
 
-See below the list of candidtes that received votes in the election:
+## Resources
+ - Data Source: Election_results.csv
+ - Software: Python 3.7.6, Visual Studio Code,  1.63.1
 
-1. Charles Casper Stockham
-2. Diana Degette
-3. Raymon Anthony Doane
+##Summary
+1. The total votes in the election - 369,711.
+2. The list of candidates in the election.
+    - Charles Casper Stockham
+    - Diana Degette
+    - Raymon Anthony Doane
+The following is a list of the candidates, the number of votes they received, and the percentage to the total votes:
 
-The list of candidates and the number of votes received:
-
-1. Charles Casper Stockham  
-2. Diana Degette
-3. Raymon Anthony Doane
-
-Here is the breakdown of votes per candidate and percentage of votes:
-
-Charles Casper Stockham: 23%
-Diana Degette: 73.8%
-Raymon Anthony Doane: 3.1%
+    - Charles Casper Stockham  -85,213 votes (23.0% of the total votes) 
+    - Diana Degette - 272,892 votes (73.8% of the total votes)
+    - Raymon Anthony Doane - 11,606 votes (3.1% of the votes)
 
 The winner of the election, based on the results of the popular vote:
+
 Diana Degette -(272,892 votes) 73.8% of the popular vote
 
 ## Report Summary
@@ -32,9 +33,6 @@ Diana Degette -(272,892 votes) 73.8% of the popular vote
   ![image](https://user-images.githubusercontent.com/94253815/145691675-c9479bb7-9a7c-4458-a750-279ba915703c.png)
 
 
-## Resources
- - Data Source: Election_results.csv
- - Software: Python 3.7.6, Visual Studio Code,  1.63.1
 
 The analysis of the election show that:
  - There were "x" votes cast in the election
