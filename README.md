@@ -12,12 +12,13 @@ A Colorado Board of Elections employee has given you the following tasks to comp
  - Data Source: Election_results.csv
  - Software: Python 3.7.6, Visual Studio Code,  1.63.1
 
-##Summary
+## Summary
 1. The total votes in the election - 369,711.
 2. The list of candidates in the election.
     - Charles Casper Stockham
     - Diana Degette
     - Raymon Anthony Doane
+    
 The following is a list of the candidates, the number of votes they received, and the percentage to the total votes:
 
     - Charles Casper Stockham  -85,213 votes (23.0% of the total votes) 
