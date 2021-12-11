@@ -15,7 +15,7 @@ The list below are the candidates that ereceived votes:
 
 Here is the breakdown of votes per candidate and percentage of votes:
 
-    ![image](https://user-images.githubusercontent.com/94253815/145690758-cd1a571e-a49f-4978-9d03-5f01df086026.png)
+   ![image](https://user-images.githubusercontent.com/94253815/145690758-cd1a571e-a49f-4978-9d03-5f01df086026.png)
 
 
 6. Caluclate the percentage of votes each candidate won.
