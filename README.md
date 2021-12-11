@@ -19,7 +19,8 @@ Here is the breakdown of votes per candidate and percentage of votes:
 
 4. The winner of the election, based on the popular vote.
 
-   
+   ![image](https://user-images.githubusercontent.com/94253815/145691070-e4d23773-5ed9-4ff0-9980-cce425067ac8.png)
+
 
 ## Resources
  - Data Source: Election_results.csv
