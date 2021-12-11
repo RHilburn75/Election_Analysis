@@ -11,8 +11,9 @@ The list below are the candidates that ereceived votes:
 1. Charles Casper Stockham
 2. Diana Degette
 3. Raymon Anthony Doane
-Here is the breakdown of voters per candidate:
+Here is the breakdown of votes per candidate:
 
+![image](https://user-images.githubusercontent.com/94253815/145690758-cd1a571e-a49f-4978-9d03-5f01df086026.png)
 
 
 6. Caluclate the percentage of votes each candidate won.
