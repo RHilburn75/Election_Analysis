@@ -2,10 +2,17 @@
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. The following is the analysis of the audit
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Caluclate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+
+![image](https://user-images.githubusercontent.com/94253815/145690632-9edc75aa-88ea-4569-a844-8ea2f8fe519a.png)
+
+
+3. Get a complete list of candidates who received votes.
+
+
+
+5. Calculate the total number of votes each candidate received.
+6. Caluclate the percentage of votes each candidate won.
+7. Determine the winner of the election based on popular vote.
 
 ## Resources
  - Data Source: Election_results.csv
