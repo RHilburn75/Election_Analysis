@@ -39,15 +39,15 @@ This data was confirmed on the 1st round of the data analysis.  The results were
 
 ## Challenge Summary
 
-Voter Turnout for each county:
+Voter Turnout and percentage for each county:
 
   ![image](https://user-images.githubusercontent.com/94253815/145692535-a6ee2e31-f44e-4dc6-bdbd-90cd7099f3cf.png)
 
-Percentage of votes each county contributed to the election:
+Largest county turnout: Denver
 
 
 
-Determine which county had the largest turnout:
+
 
 
 
