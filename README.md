@@ -3,17 +3,19 @@
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. The following is the analysis of the audit
 1. Calculate the total number of votes cast.
 
-![image](https://user-images.githubusercontent.com/94253815/145690632-9edc75aa-88ea-4569-a844-8ea2f8fe519a.png)
+   ![image](https://user-images.githubusercontent.com/94253815/145690632-9edc75aa-88ea-4569-a844-8ea2f8fe519a.png)
 
 
 3. Get a complete list of candidates who received votes.
 The list below are the candidates that ereceived votes:
+
 1. Charles Casper Stockham
 2. Diana Degette
 3. Raymon Anthony Doane
-Here is the breakdown of votes per candidate:
 
-![image](https://user-images.githubusercontent.com/94253815/145690758-cd1a571e-a49f-4978-9d03-5f01df086026.png)
+Here is the breakdown of votes per candidate and percentage of votes:
+
+    ![image](https://user-images.githubusercontent.com/94253815/145690758-cd1a571e-a49f-4978-9d03-5f01df086026.png)
 
 
 6. Caluclate the percentage of votes each candidate won.
