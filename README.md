@@ -45,6 +45,11 @@ Voter Turnout and percentage for each county:
 
 Largest county turnout: Denver
 
+Below is copy of the audit results:
+
+![image](https://user-images.githubusercontent.com/94253815/145734766-b77b9fc1-f752-49df-b0c9-6f32296ed411.png)
+
+
 
 
 
